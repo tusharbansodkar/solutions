@@ -46,4 +46,4 @@ function isAnagram(s, t) {
 
 console.log(isAnagram(s, t));
 
-// time complexity of this solution in O(n);
+// time complexity of this solution is O(n);
